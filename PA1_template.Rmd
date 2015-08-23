@@ -86,9 +86,7 @@ Remark: We do not care about the day, month, year assigned to the array "nice_ti
          xlab="Time",ylab="Mean number of steps")
 ```
 
-To find when is the maximum of this graph, notice that for example "835" represents 08:35.
-
-I don't want to use "nice_time", because 
+The maximum of this graph is "206.1698", and it occurs at "835" (more specifically, "8:35-8:40")
 
 ```{r}
     ### What is the maximum of this graph
